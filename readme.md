@@ -57,4 +57,4 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de [correo electrónico](jesusdavid4521@gmail.com)
+Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en ponerte en contacto conmigo a través de jesusdavid4521@gmail.com
